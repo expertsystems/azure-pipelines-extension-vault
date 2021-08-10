@@ -3,7 +3,7 @@
     "id": "vault-pipelines-extension-dev",
     "name": "Vault",
     "version": "0.0.1",
-    "publisher": "hashicorp",
+    "publisher": "KofaxCloud",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
